@@ -1,7 +1,8 @@
+<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="50">
+
 # PixStream 
 
 
-<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="50">
 
 PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
 
@@ -14,6 +15,18 @@ I developed an Android app that enhances the user experience by addressing this 
 1. <b>State Preservation</b> : The app captures and saves the user's browsing state, including the specific content they were viewing.
 When a network failure occurs, the app retains this state instead of attempting to load new data.
 2. <b>Connection Handling</b>: The app monitors the network connection in real-time. When connectivity is restored, it resumes fetching the content exactly where the user left off, ensuring a smooth continuation.
+3. <b>Optimized Resource Management</b>: The app ensures that partially loaded resources are handled intelligently. For example, a partially downloaded photo or video resumes downloading upon reconnection, avoiding data waste or redundant requests
+
+# Features
+
+1. <b>Seamless state preservation</b>: Users can continue browsing where they left off after losing and regaining network connection.
+No need to refresh manually—content is intelligently resumed.
+2. <b>Content Exploration</b> : Users select content types they are interested in during onboarding.The app fetches content dynamically using the Pexels API.
+3. <b>User Engagement </b> : Like, share, and save content for later viewing.
+4. <b>Authentication</b> : Secure user authentication for personalized experiences.
+5. <b>Onboarding Screens</b>: Guides users through selecting their preferred content types during the first launch.
+6. <b>Offline Handling</b>: Robust offline support ensures a smooth experience even when the network is temporarily unavailable.
+
 
 
 
