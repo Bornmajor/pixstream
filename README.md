@@ -1,7 +1,6 @@
-<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="50">
+<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="100"> 
 
 # PixStream 
-
 
 
 PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
@@ -27,7 +26,14 @@ No need to refresh manually—content is intelligently resumed.
 5. <b>Onboarding Screens</b>: Guides users through selecting their preferred content types during the first launch.
 6. <b>Offline Handling</b>: Robust offline support ensures a smooth experience even when the network is temporarily unavailable.
 
-
+## Technologies Used
+* React Native: Framework for building cross-platform mobile applications.
+* Expo: Toolset for rapid development and deployment of React Native apps.
+* React Native Navigation: Manages navigation and routing in the app.
+* Async Storage: Local storage for saving user preferences and app state.
+* Axios: Handles API requests to the Pexels API.
+* React Native Paper: Provides material design components for UI.
+* NetInfo: Detects and manages network status changes.
 
 
 
