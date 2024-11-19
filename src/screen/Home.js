@@ -10,16 +10,22 @@ import Loader from '../components/Loader'
 
 
 
+
 const Home = () => {
 
+  const [isVisible,setIsVisible] = useState(false);
+
   const {getRandomCategory,selectedCategory,currentIndex,getNewPhotos,results,hasInternet,reloadImage,showOnBoarding } =  useContext(MyContext);
-
   
-;
-
 //   useEffect(()=>{
 //  console.log(selectedCategory)
 //   },[selectedCategory]);
+
+   useEffect(()=>{
+    if(!hasInternet){
+      setIsVisible(true)
+    }
+   },[hasInternet])
 
   
 
@@ -45,13 +51,14 @@ const Home = () => {
 
 
     <Snackbar
-        visible={!hasInternet}
+        visible={isVisible}
         onDismiss={reloadImage }
         action={{
           label: 'Reload',
           onPress: () => {
             // Do something
-            reloadImage() 
+            reloadImage() ;
+            setIsVisible(false)
           },
         }}>
         No internet
