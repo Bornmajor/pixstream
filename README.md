@@ -1,5 +1,8 @@
 # PixStream 
 
+
+<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="50">
+
 PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
 
 ## Problem solving
@@ -8,8 +11,14 @@ When users browse apps that depend on network resources (like photos and videos)
 ## Solution
 I developed an Android app that enhances the user experience by addressing this issue. The app ensures that users can seamlessly continue their browsing experience after losing and regaining network connectivity, without unintentionally loading new content. Here's how it works:
 
-* <b>State Preservation</b> : The app captures and saves the user's browsing state, including the specific content they were viewing.
+1. <b>State Preservation</b> : The app captures and saves the user's browsing state, including the specific content they were viewing.
 When a network failure occurs, the app retains this state instead of attempting to load new data.
+2. <b>Connection Handling</b>: The app monitors the network connection in real-time. When connectivity is restored, it resumes fetching the content exactly where the user left off, ensuring a smooth continuation.
+
+
+
+
+
 
 
 ## Get started
