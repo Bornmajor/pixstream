@@ -1,6 +1,16 @@
-# Welcome to your Expo app 👋
+# PixStream 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
+
+## Problem solving
+When users browse apps that depend on network resources (like photos and videos), a temporary loss of connection can cause incomplete loading or failures. In most apps, users instinctively refresh the page to try again. However, this often results in loading new content, which disrupts the user's experience and forces them to lose their place in the app.
+
+## Solution
+I developed an Android app that enhances the user experience by addressing this issue. The app ensures that users can seamlessly continue their browsing experience after losing and regaining network connectivity, without unintentionally loading new content. Here's how it works:
+
+* <b>State Preservation</b> : The app captures and saves the user's browsing state, including the specific content they were viewing.
+When a network failure occurs, the app retains this state instead of attempting to load new data.
+
 
 ## Get started
 
