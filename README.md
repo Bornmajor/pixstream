@@ -2,7 +2,6 @@
 
 # PixStream 
 
-
 PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
 
 ## Problem solving
@@ -60,6 +59,6 @@ In the output, you'll find options to open the app in a
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **src** directory..
+You can start developing by editing the files inside the **src** directory.
 
 
