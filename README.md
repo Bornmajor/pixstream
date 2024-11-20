@@ -61,6 +61,12 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **src** directory.
 
+# Video
+
+
+https://github.com/user-attachments/assets/ff998d9f-eac0-43b5-9064-7ce28afbf0f4
+
+
 # Shots
 
 
