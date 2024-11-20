@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/ff998d9f-eac0-43b5-9064-7ce28afbf0f4
 # Shots
 
 
-<img src="https://github.com/user-attachments/assets/44c2c0ca-caa8-4410-8702-ebd4a149a3d8" width="200"> 
+<img src="https://github.com/user-attachments/assets/44c2c0ca-caa8-4410-8702-ebd4a149a3d8"  width="200"> 
 
 <img src="https://github.com/user-attachments/assets/ccc2bb27-88b5-4f2d-a337-5497607b909b" width="200"> 
 
@@ -79,6 +79,7 @@ https://github.com/user-attachments/assets/ff998d9f-eac0-43b5-9064-7ce28afbf0f4
 
 <img src="https://github.com/user-attachments/assets/7f41765e-b867-40f5-9ba5-3f01c558037b" width="200"> 
 
+## Web version of similar solution coming soon
 
 
 
