@@ -63,6 +63,7 @@ You can start developing by editing the files inside the **src** directory.
 
 # Video
 
+Short video illustrating how seamlessly user continue their browsing experience after losing and regaining network connectivity,
 
 https://github.com/user-attachments/assets/ff998d9f-eac0-43b5-9064-7ce28afbf0f4
 
