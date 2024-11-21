@@ -79,7 +79,11 @@ https://github.com/user-attachments/assets/ff998d9f-eac0-43b5-9064-7ce28afbf0f4
 
 <img src="https://github.com/user-attachments/assets/7f41765e-b867-40f5-9ba5-3f01c558037b" width="200"> 
 
-## Web version of similar solution coming soon
+<div align="center">
+<h1> 🔜🌐 Web version of similar solution coming soon 🌐 </h1>
+</div>
+<br>
+
 
 
 
