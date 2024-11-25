@@ -1,6 +1,11 @@
-<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="100"> 
+
+
+<img src="https://github.com/user-attachments/assets/74a492c0-3a99-48a1-85b7-b9b790c705b8" width="800"> 
+<br>
 
 # PixStream 
+
+<img src="https://github.com/user-attachments/assets/751c6668-9ac2-4e5a-84ef-f1e7efbbbb6e" width="100"> 
 
 PixStream is a React Native app designed to enhance content exploration while providing a seamless user experience, even in challenging network conditions. The app ensures users can resume their journey without losing progress or loading unintended new content when connectivity is disrupted.
 
